@@ -25,9 +25,9 @@ class Main extends React.Component {
             <div className="App">
                 <header className="App-header">
                     <p>
-                        {definition}
+                        Technology is {definition}
                     </p>
-                    <Button variant="primary" onClick={this._redefineDefinition}>Primary</Button>
+                    <Button variant="primary" onClick={this._redefineDefinition}>Wait, what?</Button>
                 </header>
             </div>
         )
