@@ -1,0 +1,8 @@
+{
+    "<start>": "<template>",
+    "<template>": "the application of <tool> for <reason>. | a <result> developed by the <usage_adjective> application of <tool>.",
+    "<tool>": "knowledge | scientific knowledge | methods and theories | machineries and systems",
+    "<reason>": "practical purposes | the good of humanity | optimizing processes",
+    "<result>": "capability | tool | device | complicated object",
+    "<usage_adjective>": "practical | concious"
+}
