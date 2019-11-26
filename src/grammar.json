@@ -1,8 +1,12 @@
 {
     "<start>": "<template>",
-    "<template>": "the application of <tool> for <reason>. | a <result> developed by the <usage_adjective> application of <tool>.",
-    "<tool>": "knowledge | scientific knowledge | methods and theories | machineries and systems",
-    "<reason>": "practical purposes | the good of humanity | optimizing processes",
-    "<result>": "capability | tool | device | complicated object",
-    "<usage_adjective>": "practical | concious"
+    "<template>": "the creation of <makers_of_technology> | a <what> devoted to <devotion> made by <makers_of_technology>. | the <aplication> of <tool_used_to_make_technology> for <devotion>. | a <what> developed by the <usage_adjective> <aplication> of <tool_used_to_make_technology>.",
+    "<aplication>": "application | usage | utilization ",
+    "<what>": "body of knowledge | human-made product | series of items | new capability | set of useful tools | device | complicated object",
+    "<devotion>": "creating new tools | processing actions | improving human lives | practical reasons | the good of humanity | optimizing processes | problem solving",
+    "<tool_used_to_make_technology>": "<knowledge_used_in_technology> | methods and theories | machineries and systems | other technologies",
+    "<knowledge_used_in_technology>": "knowledge | scientific knowledge | theoritical knowledge | conceptual knowledge",
+    "<usage_adjective>": "practical | concious | deliberate",
+    "<makers_of_technology>": "regular human beings who <drive>| technologists | people who <drive> | driven group of people",
+    "<drive>": "want to change the world | just like to tinker around | aren't satisfied with the way things are"
 }
