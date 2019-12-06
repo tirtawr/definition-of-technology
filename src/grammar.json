@@ -2,11 +2,11 @@
     "<start>": "<template>",
     "<template>": "The creation of <makers_of_technology> | A <what> devoted to <devotion> made by <makers_of_technology> | The <aplication> of <tool_used_to_make_technology> for <devotion> | A <what> developed by the <usage_adjective> <aplication> of <tool_used_to_make_technology>.",
     "<aplication>": "application | usage | utilization ",
-    "<what>": "body of knowledge | human-made product | series of items | new capability | set of useful tools | device | complicated object",
+    "<what>": "body of knowledge | human-made product | series of items | new capability | set of useful tools and devices | complicated object",
     "<devotion>": "creating new tools | processing actions | improving human lives | practical reasons | the good of humanity | optimizing processes | problem solving",
     "<tool_used_to_make_technology>": "<knowledge_used_in_technology> | methods and theories | machineries and systems | other technologies",
     "<knowledge_used_in_technology>": "knowledge | scientific knowledge | theoritical knowledge | conceptual knowledge",
     "<usage_adjective>": "practical | concious | deliberate",
-    "<makers_of_technology>": "regular human beings who <drive>| technologists | people who <drive> | driven group of people",
-    "<drive>": "want to change the world | just like to tinker around | aren't satisfied with the way things are"
+    "<makers_of_technology>": "regular human beings who <drive>| technologists | driven group of people",
+    "<drive>": "want to change the world | just like to tinker around | aren't satisfied with the way things are | drinks a lot of coffee"
 }
