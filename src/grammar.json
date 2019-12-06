@@ -1,6 +1,6 @@
 {
     "<start>": "<template>",
-    "<template>": "the creation of <makers_of_technology> | a <what> devoted to <devotion> made by <makers_of_technology>. | the <aplication> of <tool_used_to_make_technology> for <devotion>. | a <what> developed by the <usage_adjective> <aplication> of <tool_used_to_make_technology>.",
+    "<template>": "The creation of <makers_of_technology> | A <what> devoted to <devotion> made by <makers_of_technology> | The <aplication> of <tool_used_to_make_technology> for <devotion> | A <what> developed by the <usage_adjective> <aplication> of <tool_used_to_make_technology>.",
     "<aplication>": "application | usage | utilization ",
     "<what>": "body of knowledge | human-made product | series of items | new capability | set of useful tools | device | complicated object",
     "<devotion>": "creating new tools | processing actions | improving human lives | practical reasons | the good of humanity | optimizing processes | problem solving",
